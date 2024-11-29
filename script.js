@@ -76,6 +76,15 @@ const words = [
     ],
   },
   {
+    word: "Doguinhos",
+    type: "Substantivo | Estrangeirismo",
+    definitions: [
+      "Designação devida a um cachorro pequeno ou querido.",
+      '"Mel, Sansa e Milu.',
+      '“Os doguinhos da princesa”: escroto.',
+    ],
+  },
+  {
     word: "Eu & Você, Você & Eu",
     type: "Expressão idiomática",
     definitions: [
@@ -93,7 +102,9 @@ const words = [
   {
     word: "Grand finale",
     type: "Estrangeirismo",
-    definitions: ["Define aí, amor."],
+    definitions: ["Fase culminante do espetáculo, que reúne em palco todos os atores envolvidos.",
+                  "Penetração."
+                 ],
   },
   {
     word: "E o Kiko?",
@@ -143,6 +154,14 @@ const words = [
     definitions: [
       "Claramente esperando que o contrário seja dito.",
       "Reação a ofensas ditas ou executadas anteriormente, sem data de expiração.",
+    ],
+  },
+  {
+    word: "Nemo",
+    type: "Substantivo",
+    definitions: [
+      "Peixe palhaço que protagoniza a franquia homônima.",
+      "Por campo semântico, todo peixinho; sêmen.",
     ],
   },
   {
@@ -226,7 +245,7 @@ const words = [
     word: "Toda amassada",
     type: "Adv. de intensidade + adj.",
     definitions: [
-      "Com a cara magoada; o cabelo bagunçado; o ânimo subterrâneo; a autoestima irônica; os olhos pequenos; usando óculos; mil manutenções por fazer.",
+      "Com a cara magoada; o cabelo bagunçado; o ânimo subterrâneo; a autoestima irônica; os olhos pequenos; óculos tortos sobre o nariz; mil manutenções por fazer.",
       "Cavando um elogio.",
     ],
   },
